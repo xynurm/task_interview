@@ -104,8 +104,8 @@ CREATE TABLE `pegawai` (
 --
 
 INSERT INTO `pegawai` (`id`, `name_pegawai`, `department_id`) VALUES
-(5, 'halo', 1),
-(8, 'anjay', 1);
+(5, 'budi', 1),
+(8, 'anto', 1);
 
 --
 -- Indexes for dumped tables
