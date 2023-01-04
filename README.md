@@ -1,3 +1,6 @@
+# Introduction
+This app using Codeigniter 3 PHP Framework 
+
 # SETUP
 - Extract file to xampp/htdocs
 - Create new database name `bpr_test`
