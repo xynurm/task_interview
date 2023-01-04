@@ -1,6 +1,6 @@
 # SETUP
 - Extract file to xampp/htdocs
-- Create new database name `bpr_test.sql`
+- Create new database name `bpr_test`
 - Import SQL `bpr_test.sql` file inside `db` folder
   > File: `db/bpr_test.sql`
 
